@@ -32,23 +32,23 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "HUMAN ACTIVITY RECOGNITION USING SMARTPHONES",
-    description:
-    "Developed a machine learning model that identifies physical activities from smartphone sensor data.",
+    description: "Developed a machine learning model that identifies physical activities from smartphone sensor data.",
+    url: "https://github.com/Manya-tech/MachineLearning/tree/main",
   },
   {
     title: "SPLITWISE CASH FLOW MINIMIZATION",
-    description:
-    "Used Greedy algorithm to minimize the cash flow between twofriends.",
+    description: "Used Greedy algorithm to minimize the cash flow between twofriends.",
+    url: "https://github.com/Manya-tech/Cpp_Projects",
   },
   {
     title: "TITANIC SURVIVAL PREDICTION",
-    description:
-      "Built variousMLmodels using titanic dataset sourced from Kaggle and Computed accuracies for different values of parameters using GridSearchCV..",
+    description: "Built variousMLmodels using titanic dataset sourced from Kaggle and Computed accuracies for different values of parameters using GridSearchCV..",
+    url: "https://github.com/Manya-tech/titanic-survival-prediction",
   },
   {
     title: "TIC TAC TOE GAME",
-    description:
-      "Devised a Tic Tac Toe game using Python and Tkinter.",
+    description: "Devised a Tic Tac Toe game using Python and Tkinter.",
+    url: "https://github.com/Manya-tech/Python_projects",
   },
 ];
 
